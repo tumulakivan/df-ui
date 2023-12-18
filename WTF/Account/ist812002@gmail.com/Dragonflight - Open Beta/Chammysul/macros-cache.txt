@@ -1,0 +1,17 @@
+VER 3 0100000000000002 "moonfire" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Moonfire
+END
+VER 3 0100000000000004 "sunfire" "236216"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Sunfire
+END
+VER 3 0100000000000003 "taunt" "134400"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Growl
+END
+VER 3 0100000000000001 "tf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Tiger's Fury
+/use Kihra's Adrenaline Injector
+END

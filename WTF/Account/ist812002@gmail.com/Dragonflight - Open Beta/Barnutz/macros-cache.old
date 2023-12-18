@@ -1,0 +1,50 @@
+VER 3 0100000000000006 "ca" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Elysian Decree
+/cast Sinful Brand
+/cast The Hunt
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Elysian Decree" or G"Sinful Brand" or G"The Hunt")
+END
+VER 3 0100000000000005 "db" "INV_MISC_QUESTIONMARK"
+#showtooltip Demon's Bite
+/cast Felblade
+/cast Demon's Bite
+END
+VER 3 010000000000000A "fear" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Sigil of Misery
+END
+VER 3 0100000000000008 "glaive" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm][] Throw Glaive
+END
+VER 3 010000000000000C "jump" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Infernal Strike
+END
+VER 3 0100000000000004 "kick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift, @focus] Disrupt; Disrupt 
+END
+VER 3 0100000000000003 "Meta" "INV_MISC_QUESTIONMARK"
+#showtooltip Metamorphosis
+/cast [@cursor] Metamorphosis
+END
+VER 3 010000000000000B "silence" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Sigil of Silence
+END
+VER 3 0100000000000009 "sof" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Sigil of Flame
+END
+VER 3 0100000000000007 "taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm][] Torment
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Bar[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

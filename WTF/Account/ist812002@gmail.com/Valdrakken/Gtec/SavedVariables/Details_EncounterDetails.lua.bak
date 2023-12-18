@@ -1,0 +1,270 @@
+
+EncounterDetailsDB = {
+	["chartData"] = {
+		[24] = {
+		},
+		[26] = {
+		},
+		[37] = {
+			["Raid Damage Done"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				0, -- [7]
+				0, -- [8]
+				["__time"] = 1702474737,
+			},
+		},
+		[28] = {
+			["Raid Damage Done"] = {
+				0, -- [1]
+				["__time"] = 1702474335,
+			},
+		},
+		[29] = {
+			["Raid Damage Done"] = {
+				0, -- [1]
+				["__time"] = 1702474355,
+			},
+		},
+		[30] = {
+			["Raid Damage Done"] = {
+				2728, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				["max_value"] = 2728,
+				["__time"] = 1702474600,
+			},
+		},
+		[34] = {
+			["Raid Damage Done"] = {
+				0, -- [1]
+				0, -- [2]
+				8278, -- [3]
+				9622, -- [4]
+				12319, -- [5]
+				6276, -- [6]
+				4794, -- [7]
+				7599, -- [8]
+				5972, -- [9]
+				6931, -- [10]
+				2684, -- [11]
+				2473, -- [12]
+				8817, -- [13]
+				1248, -- [14]
+				0, -- [15]
+				0, -- [16]
+				0, -- [17]
+				0, -- [18]
+				0, -- [19]
+				["max_value"] = 12319,
+				["__time"] = 1702474620,
+			},
+		},
+		[36] = {
+			["Raid Damage Done"] = {
+				5212, -- [1]
+				6275, -- [2]
+				1467, -- [3]
+				0, -- [4]
+				775, -- [5]
+				5016, -- [6]
+				6085, -- [7]
+				3067, -- [8]
+				0, -- [9]
+				1114, -- [10]
+				9691, -- [11]
+				6136, -- [12]
+				6620, -- [13]
+				12290, -- [14]
+				0, -- [15]
+				0, -- [16]
+				0, -- [17]
+				0, -- [18]
+				0, -- [19]
+				0, -- [20]
+				["max_value"] = 12290,
+				["__time"] = 1702474716,
+			},
+		},
+		[35] = {
+			["Raid Damage Done"] = {
+				0, -- [1]
+				4475, -- [2]
+				1281, -- [3]
+				213, -- [4]
+				216, -- [5]
+				963, -- [6]
+				947, -- [7]
+				214, -- [8]
+				213, -- [9]
+				210, -- [10]
+				218, -- [11]
+				524, -- [12]
+				213, -- [13]
+				210, -- [14]
+				0, -- [15]
+				0, -- [16]
+				0, -- [17]
+				0, -- [18]
+				0, -- [19]
+				0, -- [20]
+				0, -- [21]
+				0, -- [22]
+				0, -- [23]
+				0, -- [24]
+				0, -- [25]
+				0, -- [26]
+				0, -- [27]
+				0, -- [28]
+				0, -- [29]
+				0, -- [30]
+				0, -- [31]
+				0, -- [32]
+				["max_value"] = 4475,
+				["__time"] = 1702474665,
+			},
+		},
+		[18] = {
+		},
+	},
+	["encounter_spells"] = {
+		[384978] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Umbrelskul",
+		},
+		[385578] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Azureblade",
+		},
+		[373932] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Draconic Image",
+		},
+		[396722] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[387150] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[388084] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[387151] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[372222] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Azureblade",
+		},
+		[386881] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[386910] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[384699] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Umbrelskul",
+		},
+		[384223] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Azureblade",
+		},
+		[387152] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[386781] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+		[388008] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Telash Greywing",
+		},
+	},
+	["emotes"] = {
+	},
+}

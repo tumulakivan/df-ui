@@ -1,0 +1,135 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Chammysul - Dragonflight - Open Beta"] = "Chammysul - Dragonflight - Open Beta",
+		["Penggay - Dragonflight - Open Beta"] = "Penggay - Dragonflight - Open Beta",
+		["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+		["Barnutz - Dragonflight - Open Beta"] = "Barnutz - Dragonflight - Open Beta",
+		["Rememberingx - Dragonflight - Open Beta"] = "Rememberingx - Dragonflight - Open Beta",
+		["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+		["Astigmatism - Dragonflight - Open Beta"] = "Astigmatism - Dragonflight - Open Beta",
+		["Tsuntsun - Dragonflight - Open Beta"] = "Tsuntsun - Dragonflight - Open Beta",
+		["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+		["Wefindways - Valdrakken"] = "Wefindways - Valdrakken",
+		["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+		["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+		["Eeyah - Dragonflight - Open Beta"] = "Eeyah - Dragonflight - Open Beta",
+		["Eeyah - Valdrakken"] = "Eeyah - Valdrakken",
+	},
+	["profiles"] = {
+		["Chammysul - Dragonflight - Open Beta"] = {
+		},
+		["Penggay - Dragonflight - Open Beta"] = {
+		},
+		["Astigmatism - Valdrakken"] = {
+		},
+		["Barnutz - Dragonflight - Open Beta"] = {
+		},
+		["Rememberingx - Dragonflight - Open Beta"] = {
+		},
+		["Abangers - Valdrakken"] = {
+		},
+		["Astigmatism - Dragonflight - Open Beta"] = {
+		},
+		["Tsuntsun - Dragonflight - Open Beta"] = {
+		},
+		["Chammysul - Valdrakken"] = {
+		},
+		["Wefindways - Valdrakken"] = {
+		},
+		["Gtec - Valdrakken"] = {
+		},
+		["Rememberingx - Valdrakken"] = {
+		},
+		["Eeyah - Dragonflight - Open Beta"] = {
+		},
+		["Eeyah - Valdrakken"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Chammysul - Dragonflight - Open Beta"] = "Chammysul - Dragonflight - Open Beta",
+		["Penggay - Dragonflight - Open Beta"] = "Penggay - Dragonflight - Open Beta",
+		["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+		["Barnutz - Dragonflight - Open Beta"] = "Barnutz - Dragonflight - Open Beta",
+		["Rememberingx - Dragonflight - Open Beta"] = "Rememberingx - Dragonflight - Open Beta",
+		["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+		["Astigmatism - Dragonflight - Open Beta"] = "Astigmatism - Dragonflight - Open Beta",
+		["Tsuntsun - Dragonflight - Open Beta"] = "Tsuntsun - Dragonflight - Open Beta",
+		["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+		["Wefindways - Valdrakken"] = "Wefindways - Valdrakken",
+		["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+		["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+		["Eeyah - Dragonflight - Open Beta"] = "Eeyah - Dragonflight - Open Beta",
+		["Eeyah - Valdrakken"] = "Eeyah - Valdrakken",
+	},
+	["global"] = {
+		[2024] = {
+			[17892522] = {
+				["title"] = "skinning spot #3",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+		[2025] = {
+			[38127568] = {
+				["title"] = "skinning spot #1",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+		[2023] = {
+			[73468841] = {
+				["title"] = "skinning spot #4",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[64137812] = {
+				["title"] = "skinning  spot #2",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[49864939] = {
+				["title"] = "skinning spot #5",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+	},
+	["profiles"] = {
+		["Chammysul - Dragonflight - Open Beta"] = {
+		},
+		["Penggay - Dragonflight - Open Beta"] = {
+		},
+		["Astigmatism - Valdrakken"] = {
+		},
+		["Barnutz - Dragonflight - Open Beta"] = {
+		},
+		["Rememberingx - Dragonflight - Open Beta"] = {
+		},
+		["Abangers - Valdrakken"] = {
+		},
+		["Astigmatism - Dragonflight - Open Beta"] = {
+		},
+		["Tsuntsun - Dragonflight - Open Beta"] = {
+		},
+		["Chammysul - Valdrakken"] = {
+		},
+		["Wefindways - Valdrakken"] = {
+		},
+		["Gtec - Valdrakken"] = {
+		},
+		["Rememberingx - Valdrakken"] = {
+		},
+		["Eeyah - Dragonflight - Open Beta"] = {
+		},
+		["Eeyah - Valdrakken"] = {
+		},
+	},
+}

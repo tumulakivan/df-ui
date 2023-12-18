@@ -1,0 +1,23 @@
+
+HandyNotes_DragonflightDB = {
+	["profileKeys"] = {
+		["Chammysul - Dragonflight - Open Beta"] = "Default",
+		["Penggay - Dragonflight - Open Beta"] = "Default",
+		["Astigmatism - Valdrakken"] = "Default",
+		["Barnutz - Dragonflight - Open Beta"] = "Default",
+		["Rememberingx - Dragonflight - Open Beta"] = "Default",
+		["Abangers - Valdrakken"] = "Default",
+		["Astigmatism - Dragonflight - Open Beta"] = "Default",
+		["Tsuntsun - Dragonflight - Open Beta"] = "Default",
+		["Chammysul - Valdrakken"] = "Default",
+		["Wefindways - Valdrakken"] = "Default",
+		["Gtec - Valdrakken"] = "Default",
+		["Rememberingx - Valdrakken"] = "Default",
+		["Eeyah - Dragonflight - Open Beta"] = "Default",
+		["Eeyah - Valdrakken"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

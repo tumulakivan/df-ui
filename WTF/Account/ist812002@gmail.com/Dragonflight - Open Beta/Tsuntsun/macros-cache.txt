@@ -1,0 +1,26 @@
+VER 3 0100000000000003 "bs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm
+/cast Bladestorm
+END
+VER 3 0100000000000004 "ramp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm
+/cast Rampage
+END
+VER 3 0100000000000006 "RB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Raging Blow
+/use Ring of Collapsing Futures
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tsu[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000005 "ww" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Bladestorm
+/cast Whirlwind
+END

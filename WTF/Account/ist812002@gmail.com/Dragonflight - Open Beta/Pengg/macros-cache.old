@@ -1,0 +1,38 @@
+VER 3 0100000000000003 "aa" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+/cast Berserking
+END
+VER 3 0100000000000002 "cd" "INV_MISC_QUESTIONMARK"
+#showtooltip Ascendance
+/cast Ascendance
+/cast Berserking
+/use 13
+END
+VER 3 0100000000000005 "cov" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Vesper Totem
+/cast Chain Harvest
+/cast Primordial Wave
+/cast [@cursor] Fae Transfusion
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Vesper Totem" or G"Chain Harvest" or G"Primordial Wave"or G"Fae Transfusion")
+END
+VER 3 0100000000000006 "dc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] Cleanse Spirit
+END
+VER 3 0100000000000007 "fs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Flame Shock
+END
+VER 3 0100000000000001 "t7" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2] Wellspring
+/cast [talent:7/3] Ascendance
+END
+VER 3 0100000000000004 "wof" "INV_MISC_QUESTIONMARK"
+#showtooltip Feral Spirit
+/use 13
+/cast Feral Spirit
+/cast Berserking
+END

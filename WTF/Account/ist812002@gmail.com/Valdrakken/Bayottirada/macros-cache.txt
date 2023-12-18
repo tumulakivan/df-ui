@@ -1,0 +1,52 @@
+VER 3 0100000000000009 "ca" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Coordinated Assault
+/use Jotungeirr, Destiny's Call
+/use Enforcer's Stun Grenade
+END
+VER 3 0100000000000007 "kc" "INV_MISC_QUESTIONMARK"
+#showtooltip Kill Command
+/petattack
+/cast Kill Command
+/cast Bite
+/cast Claw
+END
+VER 3 0100000000000006 "kc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Kill Command
+END
+VER 3 0100000000000005 "kick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:shift, target=focus] Muzzle; Muzzle
+END
+VER 3 0100000000000001 "mark" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Hunter's Mark
+END
+VER 3 0100000000000004 "md" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Misdirection
+END
+VER 3 0100000000000002 "pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover, exists, help] [target=player] Command Pet
+END
+VER 3 0100000000000003 "sting" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Serpent Sting
+END
+VER 3 0100000000000008 "ts" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Trueshot
+/use Enforcer's Stun Grenade
+END
+VER 3 010000000000000A "turtle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+END
+VER 3 010000000000000B "volley" "134400"
+#showtooltip Volley
+/cast Salvo
+/cast [@cursor] Volley
+END

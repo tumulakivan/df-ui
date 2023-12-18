@@ -1,0 +1,81 @@
+VER 3 010000000000001A "bf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Blade Flurry
+/cast Blade Flurry
+END
+VER 3 0100000000000007 "blind" "INV_MISC_QUESTIONMARK"
+#showtooltip Blind
+/cast [nomod] Blind
+/cast [mod:shift, target=focus] Blind
+END
+VER 3 0100000000000009 "cs" "INV_MISC_QUESTIONMARK"
+#showtooltip Cheap Shot
+/cast [nomod] Cheap Shot
+/cast [mod:shift, target=focus] Cheap Shot
+END
+VER 3 0100000000000008 "fkidney" "INV_MISC_QUESTIONMARK"
+#showtooltip Kidney Shot
+/cast [nomod] Kidney Shot
+/cast [mod:shift, target=focus] Kidney Shot
+END
+VER 3 010000000000000D "fsap" "132310"
+#showtooltip Sap
+/cast [target=focus] Sap
+END
+VER 3 0100000000000017 "gouge" "132155"
+#showtooltip Gouge
+/cast [nomod] Gouge
+/cast [mod:shift, target=focus] Gouge
+END
+VER 3 010000000000000B "HOok" "INV_MISC_QUESTIONMARK"
+#showtooltip Grappling Hook
+/cast [@cursor] Grappling Hook
+END
+VER 3 0100000000000006 "kick" "INV_MISC_QUESTIONMARK"
+#showtooltip Kick
+/cast [nomod] Kick
+/cast [mod:shift, target=focus] Kick
+END
+VER 3 0100000000000014 "mfd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@Mouseover,harm][] Marked for Death
+END
+VER 3 0100000000000016 "pew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@Mouseover,harm][] Serrated Bone Spike
+END
+VER 3 0100000000000015 "roll" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Roll the Bones
+/y SWERTRES
+END
+VER 3 0100000000000013 "seggs" "136206"
+#showtooltip
+/cast Adrenaline Rush
+END
+VER 3 0100000000000012 "sod" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm][] Marked for Death
+END
+VER 3 010000000000000C "ss" "INV_MISC_QUESTIONMARK"
+#showtooltip Sinister Strike
+/cast [nomod] Sinister Strike
+/cast [mod:shift, target=Explosives] Sinister Strike
+END
+VER 3 0100000000000019 "subtag" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][] Shuriken Toss
+END
+VER 3 0100000000000011 "T7" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2] Blade Rush
+/cast [talent:7/3] Killing Spree
+END
+VER 3 0100000000000018 "tag" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][] Poisoned Knife
+END
+VER 3 0100000000000001 "tot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Tricks of the Trade
+END

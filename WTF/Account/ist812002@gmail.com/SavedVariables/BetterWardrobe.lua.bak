@@ -1,0 +1,490 @@
+
+BetterWardrobe_Options = {
+	["profileKeys"] = {
+		["Abangers - Valdrakken"] = "Default",
+		["Chammysul - Valdrakken"] = "Default",
+		["Gtec - Valdrakken"] = "Default",
+		["Rememberingx - Valdrakken"] = "Default",
+		["Astigmatism - Valdrakken"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BetterWardrobe_CharacterData = {
+	["profileKeys"] = {
+		["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+		["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+		["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+		["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+		["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+	},
+}
+BetterWardrobe_SavedSetData = {
+	["profileKeys"] = {
+		["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+		["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+		["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+		["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+		["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+	},
+	["global"] = {
+		["sets"] = {
+			["Abangers - Valdrakken"] = {
+			},
+			["Chammysul - Valdrakken"] = {
+			},
+			["Gtec - Valdrakken"] = {
+				{
+					["outfitID"] = 1,
+					["sources"] = {
+						116830, -- [1]
+						0, -- [2]
+						5810, -- [3]
+						0, -- [4]
+						5805, -- [5]
+						5807, -- [6]
+						5809, -- [7]
+						5811, -- [8]
+						104559, -- [9]
+						5806, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						146688, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "gold",
+					["icon"] = 3779053,
+					["index"] = 1,
+				}, -- [1]
+				{
+					["outfitID"] = 0,
+					["sources"] = {
+						113325, -- [1]
+						0, -- [2]
+						113330, -- [3]
+						0, -- [4]
+						113326, -- [5]
+						113331, -- [6]
+						113329, -- [7]
+						113327, -- [8]
+						104559, -- [9]
+						113328, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						70220, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "dragon",
+					["icon"] = 3174698,
+					["index"] = 2,
+				}, -- [2]
+			},
+			["Rememberingx - Valdrakken"] = {
+				{
+					["outfitID"] = 4,
+					["sources"] = {
+						33287, -- [1]
+						0, -- [2]
+						37096, -- [3]
+						1254, -- [4]
+						90201, -- [5]
+						94137, -- [6]
+						90217, -- [7]
+						100761, -- [8]
+						104604, -- [9]
+						115303, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						77439, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "eyyy",
+					["icon"] = 133694,
+					["index"] = 1,
+				}, -- [1]
+				{
+					["outfitID"] = 6,
+					["sources"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "yo what",
+					["icon"] = 1090248,
+					["index"] = 2,
+				}, -- [2]
+				{
+					["outfitID"] = 3,
+					["sources"] = {
+						89474, -- [1]
+						0, -- [2]
+						96561, -- [3]
+						1254, -- [4]
+						166275, -- [5]
+						98910, -- [6]
+						99240, -- [7]
+						99243, -- [8]
+						104604, -- [9]
+						166288, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						80726, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "gold",
+					["icon"] = 237040,
+					["index"] = 3,
+				}, -- [3]
+				{
+					["outfitID"] = 2,
+					["sources"] = {
+						77344, -- [1]
+						0, -- [2]
+						77343, -- [3]
+						2249, -- [4]
+						104602, -- [5]
+						84223, -- [6]
+						1196, -- [7]
+						100761, -- [8]
+						104604, -- [9]
+						94331, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						108588, -- [15]
+						93169, -- [16]
+						93169, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "sexier",
+					["icon"] = 1360261,
+					["index"] = 4,
+				}, -- [4]
+				{
+					["outfitID"] = 7,
+					["sources"] = {
+						69752, -- [1]
+						0, -- [2]
+						69807, -- [3]
+						2619, -- [4]
+						69715, -- [5]
+						69819, -- [6]
+						69790, -- [7]
+						69731, -- [8]
+						104604, -- [9]
+						69748, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						70137, -- [16]
+						70137, -- [17]
+						0, -- [18]
+						83203, -- [19]
+					},
+					["name"] = "green assa",
+					["icon"] = 1090950,
+					["index"] = 5,
+				}, -- [5]
+				{
+					["outfitID"] = 5,
+					["sources"] = {
+						69752, -- [1]
+						0, -- [2]
+						69807, -- [3]
+						2619, -- [4]
+						69715, -- [5]
+						69819, -- [6]
+						69790, -- [7]
+						69731, -- [8]
+						104604, -- [9]
+						69748, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						13522, -- [16]
+						13522, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "green",
+					["icon"] = 1090950,
+					["index"] = 6,
+				}, -- [6]
+				{
+					["outfitID"] = 1,
+					["sources"] = {
+						44880, -- [1]
+						0, -- [2]
+						44884, -- [3]
+						2619, -- [4]
+						44904, -- [5]
+						44871, -- [6]
+						44866, -- [7]
+						44837, -- [8]
+						104604, -- [9]
+						44810, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						83203, -- [19]
+					},
+					["name"] = "Bloodfang",
+					["icon"] = 627315,
+					["index"] = 7,
+				}, -- [7]
+				{
+					["outfitID"] = 0,
+					["sources"] = {
+						88918, -- [1]
+						0, -- [2]
+						69806, -- [3]
+						1254, -- [4]
+						92874, -- [5]
+						22056, -- [6]
+						1196, -- [7]
+						3444, -- [8]
+						104604, -- [9]
+						72556, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						3090, -- [16]
+						3090, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "sexyy",
+					["icon"] = 1360261,
+					["index"] = 8,
+				}, -- [8]
+			},
+			["Astigmatism - Valdrakken"] = {
+				{
+					["outfitID"] = 2,
+					["sources"] = {
+						86210, -- [1]
+						0, -- [2]
+						166056, -- [3]
+						2619, -- [4]
+						89760, -- [5]
+						86594, -- [6]
+						166049, -- [7]
+						116072, -- [8]
+						166041, -- [9]
+						98357, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						167866, -- [16]
+						80667, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "gold",
+					["icon"] = 1581054,
+					["index"] = 1,
+				}, -- [1]
+				{
+					["outfitID"] = 1,
+					["sources"] = {
+						0, -- [1]
+						0, -- [2]
+						70629, -- [3]
+						0, -- [4]
+						70628, -- [5]
+						16038, -- [6]
+						113600, -- [7]
+						70576, -- [8]
+						107466, -- [9]
+						111585, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						104941, -- [16]
+						95827, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "puhon",
+					["icon"] = 1533499,
+					["index"] = 2,
+				}, -- [2]
+				{
+					["outfitID"] = 0,
+					["sources"] = {
+						77344, -- [1]
+						0, -- [2]
+						77343, -- [3]
+						2619, -- [4]
+						104602, -- [5]
+						84223, -- [6]
+						14159, -- [7]
+						70576, -- [8]
+						104604, -- [9]
+						94331, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						77345, -- [15]
+						167866, -- [16]
+						80667, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "buang",
+					["icon"] = 1091093,
+					["index"] = 3,
+				}, -- [3]
+			},
+		},
+	},
+	["profiles"] = {
+		["Astigmatism - Valdrakken"] = {
+		},
+	},
+}
+BetterWardrobe_SubstituteItemData = {
+	["profileKeys"] = {
+		["Abangers - Valdrakken"] = "Default",
+		["Chammysul - Valdrakken"] = "Default",
+		["Gtec - Valdrakken"] = "Default",
+		["Rememberingx - Valdrakken"] = "Default",
+		["Astigmatism - Valdrakken"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BetterWardrobe_ListData = {
+	["favoritesDB"] = {
+		["profileKeys"] = {
+			["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+			["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+			["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+			["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+			["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+		},
+		["profiles"] = {
+			["Gtec - Valdrakken"] = {
+			},
+			["Rememberingx - Valdrakken"] = {
+			},
+			["Chammysul - Valdrakken"] = {
+			},
+			["Astigmatism - Valdrakken"] = {
+			},
+		},
+	},
+	["collectionListDB"] = {
+		["profileKeys"] = {
+			["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+			["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+			["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+			["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+			["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+		},
+		["profiles"] = {
+			["Abangers - Valdrakken"] = {
+			},
+			["Chammysul - Valdrakken"] = {
+			},
+			["Gtec - Valdrakken"] = {
+			},
+			["Rememberingx - Valdrakken"] = {
+			},
+			["Astigmatism - Valdrakken"] = {
+			},
+		},
+	},
+	["lastUpdte"] = 1,
+	["OutfitDB"] = {
+		["profileKeys"] = {
+			["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+			["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+			["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+			["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+			["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+		},
+	},
+	["HiddenAppearanceDB"] = {
+		["profileKeys"] = {
+			["Abangers - Valdrakken"] = "Abangers - Valdrakken",
+			["Chammysul - Valdrakken"] = "Chammysul - Valdrakken",
+			["Gtec - Valdrakken"] = "Gtec - Valdrakken",
+			["Rememberingx - Valdrakken"] = "Rememberingx - Valdrakken",
+			["Astigmatism - Valdrakken"] = "Astigmatism - Valdrakken",
+		},
+		["profiles"] = {
+			["Gtec - Valdrakken"] = {
+			},
+			["Rememberingx - Valdrakken"] = {
+			},
+			["Chammysul - Valdrakken"] = {
+			},
+			["Astigmatism - Valdrakken"] = {
+			},
+		},
+	},
+}
+BetterWardrobe_Mogitdata = nil
+BetterWardrobe_Updates = {
+	["8_4"] = true,
+}
+BTT = nil

@@ -1,0 +1,54 @@
+VER 3 010000000000000B "a" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Ice Lance
+END
+VER 3 010000000000000A "aoe" "135857"
+#showtooltip
+/cast [@cursor] blizzard
+END
+VER 3 0100000000000008 "ap" "INV_MISC_QUESTIONMARK"
+#showtooltip Arcane Power
+/use 13
+/use 14
+/cast Arcane Power
+END
+VER 3 0100000000000003 "Comb" "135824"
+#showtooltip Combustion
+/yell PI ME
+/use 13
+/cast Combustion
+/cast Fire Blast
+END
+VER 3 0100000000000009 "cs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift, @focus] Counterspell; Counterspell
+END
+VER 3 0100000000000005 "freeze" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Freeze
+END
+VER 3 0100000000000004 "fs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Flamestrike
+END
+VER 3 0100000000000006 "IV" "135838"
+#showtooltip Icy Veins
+/cast Icy Veins
+/use 13
+/use 14
+END
+VER 3 010000000000000C "meteor" "134400"
+#showtooltip
+/cast [@cursor] Meteor
+END
+VER 3 0100000000000007 "shift" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shifting Power
+/y AAAAAAAAAAAAAAAAAAAAAA
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Eyo[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

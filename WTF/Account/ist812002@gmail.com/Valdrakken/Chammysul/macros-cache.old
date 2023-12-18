@@ -1,0 +1,17 @@
+VER 3 0100000000000004 "fury" "134400"
+#showtooltip
+/cast [known: Fury of Elune] Fury of Elune; [known: New Moon] New Moon
+END
+VER 3 0100000000000002 "mf" "134400"
+#showtooltip
+/cast [@mouseover, harm, nodead][] Moonfire
+END
+VER 3 0100000000000003 "sf" "134400"
+#showtooltip
+/cast [@mouseover, harm, nodead][] Sunfire
+END
+VER 3 0100000000000001 "tf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Berserk
+/use Algeth'ar Puzzle Box
+END

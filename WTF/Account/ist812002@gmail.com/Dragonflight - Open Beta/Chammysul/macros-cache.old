@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "tf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Tiger's Fury
+/use Kihra's Adrenaline Injector
+END

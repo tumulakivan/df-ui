@@ -1,0 +1,17 @@
+VER 3 0100000000000004 "brew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Bonedust Brew
+END
+VER 3 0100000000000002 "cd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Invoke Xuen, the White Tiger
+/cast Blood Fury
+END
+VER 3 0100000000000003 "cjl" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][] Crackling Jade Lightning
+END
+VER 3 0100000000000001 "t" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][] Provoke
+END

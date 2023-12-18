@@ -1,0 +1,144 @@
+VER 3 0000000000000003 "autoloot" "INV_MISC_QUESTIONMARK"
+/script if GetCVar("autoLootDefault") == "1" then SetCVar("autoLootDefault", "0"); print("Autoloot Off"); else SetCVar("autoLootDefault", "1"); print("Autoloot On"); end
+END
+VER 3 000000000000000F "cov1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Echoing Reprimand
+/cast Flagellation
+/cast Serrated Bone Spike
+/cast Sepsis
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Echoing Reprimand" or G"Flagellation" or G"Serrated Bone Spike"or G"Sepsis")
+END
+VER 3 0000000000000019 "cov1dk" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shackle the Unworthy
+/cast Swarming Mist
+/cast Abomination Limb
+/cast Death's Due
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Shackle the Unworthy" or G"Swarming Mist" or G"Abomination Limb"or G"Death's Due")
+END
+VER 3 0000000000000018 "cov1h" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Resonating Arrow
+/cast Flayed Shot
+/cast Death Chakram
+/cast Wild Spirits
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Resonating Arrow" or G"Flayed Shot" or G"Death Chakram"or G"Wild Spirits")
+END
+VER 3 0000000000000015 "cov1m" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Radiant Spark
+/cast Mirrors of Torment
+/cast Deathborne
+/cast Shifting Power
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Radiant Spark" or G"Mirrors of Torment" or G"Deathborne"or G"Shifting Power")
+END
+VER 3 0000000000000010 "cov2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Door of Shadows
+/cast Soulshape
+/cast Fleshcraft
+/cast Summon Steward
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft"or G"Summon Steward")
+END
+VER 3 0000000000000005 "de" "INV_MISC_QUESTIONMARK"
+#showtooltip Disenchant
+/cast [@mouseover] Disenchant
+END
+VER 3 000000000000000E "DesProDisenchant" "645142"
+/click ClickMeForWorkDisenchanting
+END
+VER 3 000000000000000B "focus macro" "INV_MISC_QUESTIONMARK"
+/focus [@mouseover]
+END
+VER 3 0000000000000017 "leave" "INV_MISC_QUESTIONMARK"
+/run C_PartyInfo.LeaveParty()
+END
+VER 3 000000000000001B "plains" "134400"
+/way 84.07 77.27
+/way 61.37 64.23
+/way 57.13 80.10
+/way 47.32 72.16
+/way 44.73 64.57
+/way 29.54 75.43
+/way 30.15 61.56
+/way 30.39 36.07
+/way 57.79 30.81
+/way 86.54 39.32
+/way 78.42 21.17
+/way Waking Shores 48.82 86.64
+END
+VER 3 0000000000000014 "sap" "132310"
+#showtooltip
+/cleartarget
+/targetenemy
+/cast Sap
+END
+VER 3 000000000000001A "shores" "134400"
+/way 58.09 78.58
+/way 54.46 74.21
+/way 57.70 54.91
+/way 40.95 71.93
+/way 46.40 52.14
+/way 21.76 51.40
+/way 52.60 17.21
+/way 74.87 37.33
+/way 73.08 20.51
+/way 69.27 46.23
+/way 75.0 57.0
+/way 74.34 57.54 
+END
+VER 3 000000000000001C "span" "134400"
+/way 45.77 25.69
+/way 26.73 31.68
+/way 10.39 35.82
+/way 39.20 63.01
+/way 52.97 49.04
+/way 60.62 69.99
+/way 68.65 60.35
+/way 70.58 46.26
+/way 72.59 39.86
+/way 67.64 29.11
+/way 56.81 16.03
+/way Ohn'ahran Plains 70.11 86.60
+END
+VER 3 000000000000000C "symbols" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Symbols of Death
+/use 14
+END
+VER 3 0000000000000012 "t1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0000000000000013 "t2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 000000000000001D "thal" "134400"
+/way 66.01 82.34
+/way 72.96 69.14
+/way 72.40 51.71
+/way 67.09 11.76
+/way 62.41 40.46
+/way 49.85 40.23
+/way 61.57 56.61
+/way 55.76 72.33
+/way 52.65 67.43
+/way Thaldraszus 41.26 58.27
+/way 46.09 73.88
+/way 35.56 85.56
+END
+VER 3 0000000000000016 "v" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use item:183699
+END
+VER 3 0000000000000011 "vellum" "INV_MISC_QUESTIONMARK"
+#showtooltip Enchanting Vellum
+/run for i=1,GetMerchantNumItems() do local l=GetMerchantItemLink(i) if l then if l:find(38682) then BuyMerchantItem(i, 200)end end end
+END
+VER 3 0000000000000004 "vellum" "INV_MISC_QUESTIONMARK"
+/run C_TradeSkillUI.CraftRecipe(TradeSkillFrame.DetailsFrame.selectedRecipeID)
+/use Enchanting Vellum
+/click StaticPopup1Button1
+END

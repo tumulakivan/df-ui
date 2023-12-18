@@ -1,0 +1,7 @@
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+AdiBags: disabled
+AdiBags_Config: disabled
+BetterWardrobe: disabled

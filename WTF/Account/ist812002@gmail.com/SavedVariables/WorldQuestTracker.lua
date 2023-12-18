@@ -1,0 +1,846 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Chammysul - Dragonflight - Open Beta"] = "Default",
+		["Penggay - Dragonflight - Open Beta"] = "Default",
+		["Eeyah - Valdrakken"] = "Default",
+		["Barnutz - Dragonflight - Open Beta"] = "Default",
+		["Eeyah - Dragonflight - Open Beta"] = "Default",
+		["Rememberingx - Valdrakken"] = "Default",
+		["Chammysul - Valdrakken"] = "Default",
+		["Tsuntsun - Dragonflight - Open Beta"] = "Default",
+		["Astigmatism - Dragonflight - Open Beta"] = "Default",
+		["Wefindways - Valdrakken"] = "Default",
+		["Gtec - Valdrakken"] = "Default",
+		["Abangers - Valdrakken"] = "Default",
+		["Rememberingx - Dragonflight - Open Beta"] = "Default",
+		["Astigmatism - Valdrakken"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["filter_force_show_brokenshore"] = false,
+			["TutorialTracker"] = 2,
+			["groupfinder"] = {
+				["frame"] = {
+					["y"] = 203.9999389648438,
+					["x"] = 51.99989318847656,
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 1,
+				},
+			},
+			["is_BFA_version"] = true,
+			["quests_tracked"] = {
+				["Player-211-00E17F1A"] = {
+				},
+				["Player-11-007975E0"] = {
+				},
+				["Player-211-00DC7CDD"] = {
+				},
+				["Player-11-00DC7CDD"] = {
+					{
+						["mapID"] = 2022,
+						["index"] = 1,
+						["timeFraction"] = 100005.203,
+						["questID"] = 66934,
+						["mapIDSynthetic"] = 0,
+						["questType"] = 4,
+						["expireAt"] = 1702963561,
+						["numObjectives"] = 3,
+						["LastDistance"] = 0.3376201327170184,
+						["timeAdded"] = 1702877281,
+						["rewardAmount"] = "|cffc557FF376",
+						["timeLeft"] = 1438,
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					}, -- [1]
+					{
+						["mapID"] = 2025,
+						["index"] = 0,
+						["timeFraction"] = 99905.567,
+						["questID"] = 70934,
+						["questType"] = 4,
+						["mapIDSynthetic"] = 0,
+						["expireAt"] = 1702963581,
+						["numObjectives"] = 1,
+						["LastDistance"] = 0.4083851393683834,
+						["timeAdded"] = 1702877181,
+						["rewardAmount"] = "|cffc557FF376",
+						["timeLeft"] = 1440,
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					}, -- [2]
+				},
+				["Player-211-0076539D"] = {
+				},
+				["Player-211-00752AE9"] = {
+				},
+				["Player-11-00E427F0"] = {
+				},
+				["Player-11-00D94534"] = {
+				},
+				["Player-211-0093C7F4"] = {
+				},
+				["Player-11-00712505"] = {
+				},
+				["Player-11-00E427DE"] = {
+				},
+				["Player-211-00712505"] = {
+				},
+				["Player-11-0076539D"] = {
+				},
+				["Player-211-00736CE7"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-211-0093C7F4"] = {
+					[71202] = {
+						["expireAt"] = 1702205032,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 2004597,
+					},
+					[71145] = {
+						["expireAt"] = 1702286212,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045114,
+					},
+					[71206] = {
+						["expireAt"] = 1702220741,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 133675,
+					},
+					[71180] = {
+						["expireAt"] = 1702201179,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045107,
+					},
+					[66588] = {
+						["expireAt"] = 1702199825,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045107,
+					},
+					[67009] = {
+						["expireAt"] = 1702248245,
+						["rewardAmount"] = "266",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[70160] = {
+						["expireAt"] = 1702291419,
+						["rewardAmount"] = "266",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[71166] = {
+						["expireAt"] = 1702208079,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045107,
+					},
+					[71212] = {
+						["expireAt"] = 1702205032,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 4643980,
+					},
+					[70623] = {
+						["expireAt"] = 1702248221,
+						["rewardAmount"] = "266",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
+					},
+					[70625] = {
+						["expireAt"] = 1702248232,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 4643980,
+					},
+					[71140] = {
+						["expireAt"] = 1702294481,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045114,
+					},
+					[66551] = {
+						["expireAt"] = 1702246805,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 2004597,
+					},
+					[70068] = {
+						["expireAt"] = 1702205032,
+						["rewardAmount"] = "266",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+				},
+				["Player-211-00736CE7"] = {
+					[70602] = {
+						["expireAt"] = 1702161826,
+						["rewardAmount"] = "226",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+					[70172] = {
+						["expireAt"] = 1702291415,
+						["rewardAmount"] = "226",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[66588] = {
+						["expireAt"] = 1702199795,
+						["rewardAmount"] = "12",
+						["rewardTexture"] = 2004597,
+					},
+					[70160] = {
+						["expireAt"] = 1702291426,
+						["rewardAmount"] = "226",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[67026] = {
+						["expireAt"] = 1702161815,
+						["rewardAmount"] = "226",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+					[71180] = {
+						["expireAt"] = 1702201186,
+						["rewardAmount"] = "12",
+						["rewardTexture"] = 2004597,
+					},
+					[66896] = {
+						["expireAt"] = 1702161815,
+						["rewardAmount"] = "226",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+					[66551] = {
+						["expireAt"] = 1702246775,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045113,
+					},
+					[71166] = {
+						["expireAt"] = 1702208086,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045115,
+					},
+				},
+				["Player-211-00DC7CDD"] = {
+					[66588] = {
+						["expireAt"] = 1702199804,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045113,
+					},
+					[66551] = {
+						["expireAt"] = 1702246784,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045115,
+					},
+				},
+				["Player-11-00DC7CDD"] = {
+					[70047] = {
+						["expireAt"] = 1702963578,
+						["rewardAmount"] = "|cffc557FF376",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[70934] = {
+						["expireAt"] = 1702963594,
+						["rewardAmount"] = "|cffc557FF376",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[71205] = {
+						["expireAt"] = 1703049978,
+						["rewardAmount"] = "|cffc557FF376",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[66588] = {
+						["expireAt"] = 1702913239,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045106,
+					},
+					[66934] = {
+						["expireAt"] = 1702963579,
+						["rewardAmount"] = "|cffc557FF376",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[67026] = {
+						["expireAt"] = 1702881136,
+						["rewardAmount"] = "|cffc557FF376",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[71212] = {
+						["expireAt"] = 1702963579,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 4643980,
+					},
+					[67009] = {
+						["expireAt"] = 1702920379,
+						["rewardAmount"] = "|cffc557FF376",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[70064] = {
+						["expireAt"] = 1703006779,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 4643980,
+					},
+					[70068] = {
+						["expireAt"] = 1703006778,
+						["rewardAmount"] = "|cffc557FF376",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+				},
+				["Player-11-0076539D"] = {
+					[66588] = {
+						["expireAt"] = 1702913232,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045114,
+					},
+					[71154] = {
+						["expireAt"] = 1702920404,
+						["rewardAmount"] = "|cff2292FF350",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[70625] = {
+						["expireAt"] = 1702877201,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 4643980,
+					},
+					[70146] = {
+						["expireAt"] = 1702963572,
+						["rewardAmount"] = "|cff2292FF350",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[70629] = {
+						["expireAt"] = 1702963601,
+						["rewardAmount"] = "|cff2292FF350",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+				},
+				["Player-211-00712505"] = {
+					[71202] = {
+						["expireAt"] = 1702292016,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045113,
+					},
+					[70064] = {
+						["expireAt"] = 1702334796,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 4643980,
+					},
+					[71145] = {
+						["expireAt"] = 1702286376,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045107,
+					},
+					[67006] = {
+						["expireAt"] = 1702291596,
+						["rewardAmount"] = "296",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[66588] = {
+						["expireAt"] = 1702287756,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045112,
+					},
+					[71180] = {
+						["expireAt"] = 1702291596,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045110,
+					},
+					[71166] = {
+						["expireAt"] = 1702307316,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045105,
+					},
+					[70176] = {
+						["expireAt"] = 1702377996,
+						["rewardAmount"] = "296",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[71140] = {
+						["expireAt"] = 1702294656,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045110,
+					},
+					[66551] = {
+						["expireAt"] = 1702246956,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045110,
+					},
+					[70160] = {
+						["expireAt"] = 1702291596,
+						["rewardAmount"] = "296",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+				},
+				["Player-11-00712505"] = {
+					[54236] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 237368,
+					},
+					[51107] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[51108] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "|cff2292FF155",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[70720] = {
+						["expireAt"] = 1702790791,
+						["rewardAmount"] = "|cff2292FF353",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[50459] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[51763] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "|cff2292FF60",
+						["rewardTexture"] = 1674413,
+					},
+					[70172] = {
+						["expireAt"] = 1702833991,
+						["rewardAmount"] = "|cff2292FF353",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+					[69988] = {
+						["expireAt"] = 1702790791,
+						["rewardAmount"] = "|cff2292FF356",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Helmet_29",
+					},
+					[70021] = {
+						["expireAt"] = 1702790791,
+						["rewardAmount"] = "|cff2292FF353",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[51081] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[52779] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "18",
+						["rewardTexture"] = 2004597,
+					},
+					[66588] = {
+						["expireAt"] = 1702913191,
+						["rewardAmount"] = "16",
+						["rewardTexture"] = 2004597,
+					},
+					[70068] = {
+						["expireAt"] = 1702747591,
+						["rewardAmount"] = "|cff2292FF356",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[51153] = {
+						["expireAt"] = 1702833987,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[50875] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[50845] = {
+						["expireAt"] = 1702833987,
+						["rewardAmount"] = "|cff2292FF60",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[51125] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "|cff2292FF60",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[50568] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[50461] = {
+						["expireAt"] = 1702833987,
+						["rewardAmount"] = "|cff2292FF60",
+						["rewardTexture"] = 1674413,
+					},
+					[50859] = {
+						["expireAt"] = 1702877187,
+						["rewardAmount"] = "|cff2292FF60",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[51625] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "|cff2292FF59",
+						["rewardTexture"] = 2565093,
+					},
+					[51285] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+					[51780] = {
+						["expireAt"] = 1702877187,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[50636] = {
+						["expireAt"] = 1702790787,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[49345] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+					[51238] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+					[51228] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "|cff2292FF66",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
+					[52385] = {
+						["expireAt"] = 1702747587,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 2065568,
+					},
+				},
+				["Player-11-007975E0"] = {
+					[71202] = {
+						["expireAt"] = 1702740394,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045106,
+					},
+					[70160] = {
+						["expireAt"] = 1702833994,
+						["rewardAmount"] = "226",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[70649] = {
+						["expireAt"] = 1702833994,
+						["rewardAmount"] = "226",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-211-00E17F1A"] = {
+					["class"] = "EVOKER",
+					["name"] = "Eeyah",
+					["realm"] = "Dragonflight - Open Beta",
+				},
+				["Player-11-007975E0"] = {
+					["class"] = "PALADIN",
+					["name"] = "Gtec",
+					["realm"] = "Valdrakken",
+				},
+				["Player-211-00DC7CDD"] = {
+					["class"] = "DRUID",
+					["name"] = "Chammysul",
+					["realm"] = "Dragonflight - Open Beta",
+				},
+				["Player-11-00DC7CDD"] = {
+					["class"] = "DRUID",
+					["name"] = "Chammysul",
+					["realm"] = "Valdrakken",
+				},
+				["Player-211-0076539D"] = {
+					["class"] = "MAGE",
+					["name"] = "Astigmatism",
+					["realm"] = "Dragonflight - Open Beta",
+				},
+				["Player-211-00752AE9"] = {
+					["class"] = "WARRIOR",
+					["name"] = "Tsuntsun",
+					["realm"] = "Dragonflight - Open Beta",
+				},
+				["Player-11-00E427F0"] = {
+					["class"] = "WARRIOR",
+					["name"] = "Wefindways",
+					["realm"] = "Valdrakken",
+				},
+				["Player-11-00D94534"] = {
+					["class"] = "MONK",
+					["name"] = "Abangers",
+					["realm"] = "Valdrakken",
+				},
+				["Player-211-0093C7F4"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Penggay",
+					["realm"] = "Dragonflight - Open Beta",
+				},
+				["Player-11-00712505"] = {
+					["class"] = "ROGUE",
+					["name"] = "Rememberingx",
+					["realm"] = "Valdrakken",
+				},
+				["Player-11-00E427DE"] = {
+					["class"] = "EVOKER",
+					["name"] = "Eeyah",
+					["realm"] = "Valdrakken",
+				},
+				["Player-211-00712505"] = {
+					["class"] = "ROGUE",
+					["name"] = "Rememberingx",
+					["realm"] = "Dragonflight - Open Beta",
+				},
+				["Player-11-0076539D"] = {
+					["class"] = "MAGE",
+					["name"] = "Astigmatism",
+					["realm"] = "Valdrakken",
+				},
+				["Player-211-00736CE7"] = {
+					["class"] = "DEMONHUNTER",
+					["name"] = "Barnutz",
+					["realm"] = "Dragonflight - Open Beta",
+				},
+			},
+			["history"] = {
+				["quest"] = {
+					["global"] = {
+						[70529] = 2,
+						[67009] = 3,
+						[70549] = 1,
+						[70112] = 2,
+						[69931] = 1,
+						[70636] = 1,
+						["total"] = 57,
+						[67006] = 1,
+						[66896] = 1,
+						[70176] = 3,
+						[70440] = 1,
+						[70066] = 1,
+						[70011] = 1,
+						[71212] = 3,
+						[70649] = 2,
+						[70149] = 2,
+						[70602] = 3,
+						[71181] = 1,
+						[69988] = 2,
+						[70622] = 1,
+						[69941] = 1,
+						[70638] = 2,
+						[70012] = 3,
+						[70646] = 1,
+						[71154] = 2,
+						[70150] = 1,
+						[67012] = 1,
+						[70224] = 1,
+						[67026] = 1,
+						[70612] = 1,
+						[66902] = 1,
+						[71156] = 1,
+						[70146] = 1,
+						[70631] = 1,
+						[70068] = 2,
+						[66833] = 2,
+						[66989] = 1,
+						[69924] = 2,
+					},
+					["character"] = {
+						["Player-11-00712505"] = {
+							["total"] = 5,
+							[71212] = 1,
+							[70012] = 1,
+							[67006] = 1,
+							[70631] = 1,
+							[70112] = 1,
+						},
+						["Player-11-00DC7CDD"] = {
+							[70602] = 1,
+							["total"] = 14,
+							[70649] = 1,
+							[70066] = 1,
+							[70068] = 2,
+							[70224] = 1,
+							[70176] = 2,
+							[70012] = 1,
+							[66833] = 1,
+							[69924] = 1,
+							[71181] = 1,
+							[71156] = 1,
+							[67012] = 1,
+						},
+						["Player-11-0076539D"] = {
+							[70602] = 1,
+							["total"] = 11,
+							[69931] = 1,
+							[70622] = 1,
+							[70549] = 1,
+							[67026] = 1,
+							[71212] = 2,
+							[70149] = 1,
+							[67009] = 1,
+							[69924] = 1,
+							[69988] = 1,
+						},
+						["Player-211-00712505"] = {
+							[70150] = 1,
+							["total"] = 6,
+							[70529] = 1,
+							[70638] = 1,
+							[67009] = 1,
+							[70636] = 1,
+							[70012] = 1,
+						},
+						["Player-211-0093C7F4"] = {
+							[69941] = 1,
+							[71154] = 2,
+							[70011] = 1,
+							[70602] = 1,
+							[70112] = 1,
+							[70176] = 1,
+							[70612] = 1,
+							[70149] = 1,
+							[66989] = 1,
+							[70649] = 1,
+							[70529] = 1,
+							[70440] = 1,
+							["total"] = 21,
+							[67009] = 1,
+							[70638] = 1,
+							[69988] = 1,
+							[70146] = 1,
+							[66833] = 1,
+							[70646] = 1,
+							[66902] = 1,
+							[66896] = 1,
+						},
+					},
+				},
+				["period"] = {
+					["global"] = {
+						["231208"] = {
+							["quest"] = 3,
+						},
+						["231215"] = {
+							["quest"] = 1,
+							["resource"] = 75,
+						},
+						["231207"] = {
+							["resource"] = 30,
+							["quest"] = 3,
+							["gold"] = 6254152,
+						},
+						["231216"] = {
+							["quest"] = 12,
+							["gold"] = 6274385,
+						},
+						["231206"] = {
+							["resource"] = 135,
+							["quest"] = 18,
+							["gold"] = 25086393,
+						},
+						["231217"] = {
+							["quest"] = 3,
+						},
+						["231214"] = {
+							["quest"] = 3,
+						},
+						["231218"] = {
+							["quest"] = 7,
+							["gold"] = 18663487,
+						},
+						["231213"] = {
+							["quest"] = 4,
+							["resource"] = 30,
+						},
+						["231209"] = {
+							["quest"] = 3,
+						},
+					},
+					["character"] = {
+						["Player-11-00712505"] = {
+							["231215"] = {
+								["quest"] = 1,
+								["resource"] = 75,
+							},
+							["231214"] = {
+								["quest"] = 1,
+							},
+							["231216"] = {
+								["quest"] = 3,
+							},
+						},
+						["Player-11-00DC7CDD"] = {
+							["231214"] = {
+								["quest"] = 2,
+							},
+							["231218"] = {
+								["quest"] = 1,
+							},
+							["231216"] = {
+								["quest"] = 7,
+							},
+							["231213"] = {
+								["quest"] = 4,
+								["resource"] = 30,
+							},
+						},
+						["Player-11-0076539D"] = {
+							["231218"] = {
+								["quest"] = 6,
+								["gold"] = 18663487,
+							},
+							["231217"] = {
+								["quest"] = 3,
+							},
+							["231216"] = {
+								["quest"] = 2,
+								["gold"] = 6274385,
+							},
+						},
+						["Player-211-00712505"] = {
+							["231206"] = {
+								["resource"] = 75,
+								["quest"] = 6,
+								["gold"] = 6230080,
+							},
+						},
+						["Player-211-0093C7F4"] = {
+							["231207"] = {
+								["resource"] = 30,
+								["quest"] = 3,
+								["gold"] = 6254152,
+							},
+							["231206"] = {
+								["quest"] = 12,
+								["resource"] = 60,
+								["gold"] = 18856313,
+							},
+							["231208"] = {
+								["quest"] = 3,
+							},
+							["231209"] = {
+								["quest"] = 3,
+							},
+						},
+					},
+				},
+				["reward"] = {
+					["global"] = {
+						["resource"] = 270,
+						["gold"] = 56278417,
+					},
+					["character"] = {
+						["Player-11-00712505"] = {
+							["resource"] = 75,
+						},
+						["Player-11-00DC7CDD"] = {
+							["resource"] = 30,
+						},
+						["Player-11-0076539D"] = {
+							["gold"] = 24937872,
+						},
+						["Player-211-00712505"] = {
+							["resource"] = 75,
+							["gold"] = 6230080,
+						},
+						["Player-211-0093C7F4"] = {
+							["resource"] = 90,
+							["gold"] = 25110465,
+						},
+					},
+				},
+			},
+		},
+	},
+}
+WQTrackerLanguage = {
+	["language"] = "enUS",
+	["version"] = 1,
+}
